@@ -1,9 +1,12 @@
 ![Scheme](high-lvl-scheme.png)
 
-schedule: https://github.com/aliya2409/cinema-schedule
-order: https://github.com/aliya2409/cinema-order
-payment: https://github.com/aliya2409/cinema-payment
-notification: https://github.com/aliya2409/cinema-notification
+• schedule: https://github.com/aliya2409/cinema-schedule
+
+• order: https://github.com/aliya2409/cinema-order
+
+• payment: https://github.com/aliya2409/cinema-payment
+
+• notification: https://github.com/aliya2409/cinema-notification
 
 User stories:
 1. As a customer, I want to buy tickets and get them from my email;
